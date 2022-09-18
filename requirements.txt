@@ -10,7 +10,7 @@ numpy
 scipy
 matplotlib
 pandas
-tpot
+tpot-0.6.8
 seaborn
 cloudpickle
-scikit-learn>=0.22.0
+scikit-learn==0.18.1
