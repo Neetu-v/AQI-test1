@@ -1,3 +1,6 @@
+scikit-learn==0.20.0
+scikit-learn==0.21.0
+scikit-learn==0.22.2
 certifi
 Click
 Flask
@@ -10,7 +13,6 @@ numpy
 scipy
 matplotlib
 pandas
-tpot-0.6.8
+tpot
 seaborn
 cloudpickle
-scikit-learn==0.18.1
